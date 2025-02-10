@@ -5,7 +5,9 @@ const textSamples = [
     "Keep practicing to get better",
     "DEVELOPER MEHAR SAB",
     "Quick lazy fox",
-    "Jumping over the dog"
+    "Jumping over the dog",
+    "Sayam Lan",
+    "Sayam pill"
 ];
 
 let sampleText = "";
