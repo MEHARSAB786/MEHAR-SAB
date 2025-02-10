@@ -3,11 +3,8 @@ const textSamples = [
     "Typing fast improves productivity",
     "Speed and accuracy are important",
     "Keep practicing to get better",
-    "DEVELOPER MEHAR SAB",
     "Quick lazy fox",
-    "Jumping over the dog",
-    "Sayam Lan",
-    "Sayam pill"
+    "Jumping over the dog"
 ];
 
 let sampleText = "";
